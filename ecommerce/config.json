@@ -1,0 +1,11 @@
+{
+    "development" : {
+        "database": "school",
+        "username": "root",
+        "password": "sunny123",
+        "dialects" : {
+            "host":"localhost",
+            "dialect": "mysql"
+        }
+    }
+}
